@@ -1,0 +1,37 @@
+{
+  "name": "ssi-ecosystem",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "ci": "lerna exec npm ci",
+    "start": "lerna run start",
+    "dev": "lerna run dev",
+    "start:dev": "lerna run start:dev",
+    "clean": "lerna clean",
+    "tsc": "lerna run tsc",
+    "link": "lerna link",
+    "version": "lerna version",
+    "lint": "lerna run lint",
+    "lint:fix": "lerna run lint:fix",
+    "build": "lerna run lint && lerna run build",
+    "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish",
+    "test": "lerna run test",
+    "test:coverage": "lerna run test:coverage",
+    "test:coverage:codeclimate": "lerna run test:coverage:codeclimate",
+    "interop:docker": "npm run lint:fix && docker system prune -a --volumes && docker-compose up",
+    "test:integration": "lerna run test:integration",
+    "exec": "lerna exec",
+    "list-packages": "lerna list --json",
+    "checkLicenses": "lerna run checkLicenses"
+  },
+  "dependencies": {
+    "@ahryman40k/ts-fhir-types": "^4.0.25"
+  },
+  "devDependencies": {
+    "husky": "^4.3.0",
+    "lerna": "^3.20.2",
+    "license-checker": "25.0.1",
+    "typescript": "^3.9.2"
+  }
+}
