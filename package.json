@@ -15,7 +15,6 @@
     "lint:fix": "lerna run lint:fix",
     "build": "lerna run lint && lerna run build",
     "bootstrap": "lerna bootstrap",
-    "publish": "lerna publish",
     "test": "lerna run test",
     "test:coverage": "lerna run test:coverage",
     "test:coverage:codeclimate": "lerna run test:coverage:codeclimate",

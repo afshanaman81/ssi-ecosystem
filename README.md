@@ -6,8 +6,12 @@ Table of Contents
 - [SSI Background](#ssi-background)
 
 # ssi-ecosystem
-An ecosystem of SSI components, using the 
+- [An ecosystem of SSI components, using the ](https://www.linkedin.com/pulse/project-job-creds-foak-validation-verifiable-dan-gisolfi/)
 
+- [The Basic Building Blocks of SSI](https://freecontent.manning.com/the-basic-building-blocks-of-ssi/)
+
+- https://arxiv.org/pdf/2005.01346.pdf
+- 
 # Motivation
 This repo is for my learning and understanding purposes, to become an authority on the architecture, design and implementation of all parts of an SSI-as-a-service solution.
 

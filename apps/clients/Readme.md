@@ -1,0 +1,1 @@
+- [Building SSI Digital Wallets](https://trinsic.id/ssi-wallets-3-decisions/)
