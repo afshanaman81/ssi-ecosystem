@@ -1,5 +1,21 @@
+## Introduction
+This can also be called a DID Service. 
+
+For SSI applications, a user's digital ID should be a lifetime portable digital identity that does not depend on any centralized authority. Such an identifier fulfills these four requirements: 
+- persistence
+- global resolvability
+- cryptographic verifiability
+- decentralization
+
+### What is DID?
+DIDs follow the basic pattern of the URN specification, which is `urn:uuid:fe0cde11-59d2-4621-887f-23013499f905`
+where the first part is the `scheme`, 2nd part is the `namespace` and the last part is a namespace specific string
+
+A DID format looks like `did:example:12345abcde`
+
+here, the first part is the `scheme`, 2nd part is the namespace which identifies a `DID method`, and the last part is a DID method-specific identifier
+
 ## Main Features
-This can also be called a DID Service
 - User Management
   - New User Registration
   - Username Update

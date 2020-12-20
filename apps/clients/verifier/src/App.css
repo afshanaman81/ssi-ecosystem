@@ -1,0 +1,122 @@
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+.no-margin {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.wrapper{
+  margin-top: 5vh;
+}
+
+.Affinidi-logo {
+  /* margin: 10rem auto; */
+  width: 80%;
+}
+
+.image{
+  width: 30%;
+}
+
+.image-large{
+  width: 50%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;  
+  padding-left:0;
+  padding-right: 0;
+
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  min-height: 100vh;
+  
+}
+
+.left-pane {
+  background-color: rgb(86, 184, 190);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+}
+
+.right-pane {
+  background-color: rgb(176, 132, 196);
+  opacity: 0.7;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+}
+
+.margin-right{
+  margin-right: 100px;
+}
+
+.margin-left{
+  margin-left: 100px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.form { 
+  margin: 0 auto;
+  width: 90%
+}
+
+.btn-width {
+  margin: 0 auto;
+  width: 70% !important;
+  max-width: 300px;
+}
+
+.btn-height {
+  min-height: 200px !important;
+}
+
+.horizontalRule {
+  background-color:rgba(4, 4, 95, 0.822);
+  height: 1px;
+}
+
+.card {
+  width: 23rem;
+  height: 27rem;
+  background-color: black;
+  opacity: 0.6;
+  align-items: center;
+}
+
+.card-img{
+  width: 12rem;
+}
+
+.nav-tabs {
+  border-bottom: 2px solid  rgba(4, 4, 95, 0.822);
+}
+
+.nav-link.active {
+  background-color: rgb(86, 184, 190) !important;
+  border-color: rgba(4, 4, 95, 0.822) !important;
+  color:  rgba(4, 4, 95, 0.822) !important;
+  font-weight: bolder;
+}

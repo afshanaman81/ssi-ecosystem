@@ -1,0 +1,9 @@
+FROM node:12
+
+EXPOSE 3001 35729
+
+ENV REACT_APP_ENVIRONMENT docker
+WORKDIR /web
+COPY package*.json ./
+RUN npm install --silent
+COPY . .

@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "affinidi-interop-wallet",
+    "slug": "affinidi-interop-wallet",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.1",
+    "sdkVersion": "40.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "org.affinity.ssi.holder"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "org.affinity.ssi.holder"
+    },
+    "description": ""
+  }
+}
