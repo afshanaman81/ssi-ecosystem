@@ -57,7 +57,7 @@ Concepts and Reading Material:
  - https://freecontent.manning.com/the-basic-building-blocks-of-ssi/
 
 
-[![image](https://user-images.githubusercontent.com/28490858/165139578-e4df40e6-288a-43e3-baa0-a2967a5f57aa.png)]
+![image](https://user-images.githubusercontent.com/28490858/165139578-e4df40e6-288a-43e3-baa0-a2967a5f57aa.png)
 
 
 
