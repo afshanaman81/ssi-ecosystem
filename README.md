@@ -16,3 +16,10 @@ SSI space
 - https://www.uport.me/
 - https://www.transmute.industries/
 - https://bloom.co/
+- https://www.affinidi.com/
+
+
+Implementations
+- https://github.com/affinityproject
+- https://academy.affinidi.com/how-to-implement-driving-license-use-case-using-verifiable-credentials-cef928222c92
+- https://github.com/resonatecoop/verifiable-credentials
