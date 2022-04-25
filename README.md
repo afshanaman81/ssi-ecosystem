@@ -43,32 +43,31 @@ Implementations
 
 
 Concepts and Reading Material:
-Evolution of Identity and SSI:
-Self-Sovereign Identity: https://www.manning.com/books/self-sovereign-identity
-Compare and Contrast — Federated Identity vs Self-sovereign Identity: https://academy.affinidi.com/compare-and-contrast-federated-identity-vs-self-sovereign-identity-227a85cbab18   
-Principles of SSI:
-Principles of SSI V2 - Sovrin 
-The 10 principles of Self-Sovereign Identity (SSI)  
-Blockchain for Decentralized Identity: 
-Blockchain for Digital Identity: Real World Use Cases | ConsenSys 
-Ethereum Identity Specs and Apps 
-Trust Triangle: 
-https://academy.affinidi.com/what-is-the-trust-triangle-9a9caf36b321 
-The Basic Building Blocks of SSI - Manning   
+- Evolution of Identity and SSI:
+ - https://www.manning.com/books/self-sovereign-identity
+ - https://academy.affinidi.com/compare-and-contrast-federated-identity-vs-self-sovereign-identity-227a85cbab18   
+- Principles of SSI:
+ - https://sovrin.org/principles-of-ssi/
+ - https://www.selfsovereignidentity.it/the-10-principles-of-self-sovereign-identity-ssi/
+- Blockchain for Decentralized Identity: 
+ - https://consensys.net/blockchain-use-cases/digital-identity/
+ - https://decentralized-id.com/blockchain/ethereum/
+- Trust Triangle: 
+ - https://academy.affinidi.com/what-is-the-trust-triangle-9a9caf36b321 
+ - https://freecontent.manning.com/the-basic-building-blocks-of-ssi/
 
 
-
-
+blob:https://bitwave-dev.atlassian.net/9857d937-e696-4285-b021-9d8ff2459325![image](https://user-images.githubusercontent.com/28490858/165139025-9b3f35e4-6d6a-4f40-ba9b-a44a4dae4b41.png)
 
 
 
 Decentralized Identifiers (DIDs): 
-Decentralized Identifiers (DIDs) v1.0 
+https://www.w3.org/TR/did-core/
 Verifiable Credentials
-Verifiable Credentials Data Model v1.1  
+https://www.w3.org/TR/vc-data-model/
 Json Web Tokens
-JWT.IO - JSON Web Tokens Introduction  
+https://jwt.io/introduction
 NFT vs VC for identity
-Not all NFTs are made equal.  VCs vs NFTs. 
+https://blog.kycdao.xyz/nft_vs_vc/
  
  
