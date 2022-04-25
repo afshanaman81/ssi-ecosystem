@@ -61,13 +61,13 @@ blob:https://bitwave-dev.atlassian.net/9857d937-e696-4285-b021-9d8ff2459325![ima
 
 
 
-Decentralized Identifiers (DIDs): 
-https://www.w3.org/TR/did-core/
-Verifiable Credentials
-https://www.w3.org/TR/vc-data-model/
-Json Web Tokens
-https://jwt.io/introduction
-NFT vs VC for identity
-https://blog.kycdao.xyz/nft_vs_vc/
+- Decentralized Identifiers (DIDs): 
+ - https://www.w3.org/TR/did-core/
+- Verifiable Credentials
+ - https://www.w3.org/TR/vc-data-model/
+- Json Web Tokens
+ - https://jwt.io/introduction
+- NFT vs VC for identity
+ - https://blog.kycdao.xyz/nft_vs_vc/
  
  
