@@ -39,3 +39,36 @@ Implementations
 - https://github.com/northgrove/NG-VerifiableCredentials
 - https://github.com/CharlieMc0/CommunityBadgeProtocol-VerifiableCredentials
 - https://github.com/transmute-industries/vc-greeting-card
+
+
+
+Concepts and Reading Material:
+Evolution of Identity and SSI:
+Self-Sovereign Identity: https://www.manning.com/books/self-sovereign-identity
+Compare and Contrast — Federated Identity vs Self-sovereign Identity: https://academy.affinidi.com/compare-and-contrast-federated-identity-vs-self-sovereign-identity-227a85cbab18   
+Principles of SSI:
+Principles of SSI V2 - Sovrin 
+The 10 principles of Self-Sovereign Identity (SSI)  
+Blockchain for Decentralized Identity: 
+Blockchain for Digital Identity: Real World Use Cases | ConsenSys 
+Ethereum Identity Specs and Apps 
+Trust Triangle: 
+https://academy.affinidi.com/what-is-the-trust-triangle-9a9caf36b321 
+The Basic Building Blocks of SSI - Manning   
+
+
+
+
+
+
+
+Decentralized Identifiers (DIDs): 
+Decentralized Identifiers (DIDs) v1.0 
+Verifiable Credentials
+Verifiable Credentials Data Model v1.1  
+Json Web Tokens
+JWT.IO - JSON Web Tokens Introduction  
+NFT vs VC for identity
+Not all NFTs are made equal.  VCs vs NFTs. 
+ 
+ 
