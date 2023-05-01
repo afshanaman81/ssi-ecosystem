@@ -63,12 +63,12 @@ Concepts and Reading Material:
 
 
 - Decentralized Identifiers (DIDs): 
- - https://www.w3.org/TR/did-core/
+  - https://www.w3.org/TR/did-core/
 - Verifiable Credentials
- - https://www.w3.org/TR/vc-data-model/
+  - https://www.w3.org/TR/vc-data-model/
 - Json Web Tokens
- - https://jwt.io/introduction
+  - https://jwt.io/introduction
 - NFT vs VC for identity
- - https://blog.kycdao.xyz/nft_vs_vc/
+  - https://blog.kycdao.xyz/nft_vs_vc/
  
  
