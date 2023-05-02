@@ -39,6 +39,7 @@ Implementations
 - https://github.com/northgrove/NG-VerifiableCredentials
 - https://github.com/CharlieMc0/CommunityBadgeProtocol-VerifiableCredentials
 - https://github.com/transmute-industries/vc-greeting-card
+- https://lcw.app/ (https://openlearning.mit.edu/news/developing-open-source-wallet-digital-credentials)
 
 
 
